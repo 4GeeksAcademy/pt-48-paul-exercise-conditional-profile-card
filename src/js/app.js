@@ -1,4 +1,3 @@
-import { left, right } from '@popperjs/core';
 import "../style/index.css";
 
 /**
